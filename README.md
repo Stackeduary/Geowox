@@ -1,4 +1,4 @@
-# Test assignment for Geowox Data Engineer Internship
+# Test Assignment for Geowox Data Engineer Internship
 
 I implemented a working solution in Test Assignment.py.
 
